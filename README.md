@@ -9,7 +9,7 @@ that do not require the use of API keys:
 * [REST Countries](https://restcountries.eu/)
 * [Exchange Rate API](https://exchangeratesapi.io/)
 
-Click [here](http://corinnachan.com/api-project/) to check it out!
+Click [here](http://corinnachan.com/api-project/) to check out the app!
 
 
 ### Minimum Viable Product :baggage_claim:
