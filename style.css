@@ -1,4 +1,32 @@
+html {
+  margin: 2em;
+  background-color: #f1c40f;
+}
+
 body {
   text-align: center;
   font-family: sans-serif;
+}
+
+h2, h3 {
+  align-content: center;
+  height: 1em;
+}
+
+button {
+  cursor: pointer;
+  width: 300px;
+  height: 60px;
+  background-color: #3498db;
+  border-radius: 50px;
+  margin: 2em;
+  color: #FFF;
+  font-size: 20;
+}
+
+.results {
+  height: 5em;
+  position: relative;
+  align-content: flex-end;
+  font-size: 20;
 }
