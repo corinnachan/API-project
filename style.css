@@ -1,6 +1,7 @@
 html {
   margin: 2em;
   background-color: #f1c40f;
+  height: auto;
 }
 
 body {
@@ -22,6 +23,10 @@ button {
   margin: 2em;
   color: #FFF;
   font-size: 20;
+  position: relative;
+  flex: auto;
+  outline: none;
+
 }
 
 .results {
